@@ -1,0 +1,36 @@
+[{
+   "nombre":"Andrea",
+   "edad":26,
+   "hobbies":[
+      "leer",
+      "bailar",
+      "dibujar"
+   ]
+},
+{
+   "nombre":"Alex",
+   "edad":29,
+   "hobbies":[
+      "reparar",
+      "eskiar",
+      "dibujar"
+   ]
+},
+{
+   "nombre":"hannia",
+   "edad":22,
+   "hobbies":[
+      "leer",
+      "videojuegos",
+      "dibujar"
+   ]
+},
+{
+   "nombre":"Abigail",
+   "edad":28,
+   "hobbies":[
+      "series",
+      "bailar"
+   ]
+}
+]
